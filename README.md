@@ -31,4 +31,3 @@ An interactive Electric Vehicle (EV) Analytics Dashboard developed to analyze an
 🎯 Project Objective
 
 To provide meaningful insights into the Electric Vehicle market and help users understand trends, pricing, and performance using data analytics and visualization techniques.
-ev car project.pbix
