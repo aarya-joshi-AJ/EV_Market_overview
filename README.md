@@ -31,3 +31,4 @@ An interactive Electric Vehicle (EV) Analytics Dashboard developed to analyze an
 🎯 Project Objective
 
 To provide meaningful insights into the Electric Vehicle market and help users understand trends, pricing, and performance using data analytics and visualization techniques.
+https://github.com/aarya-joshi-AJ/EV_Market_overview/blob/main/Screenshot%202026-08-22%20213752.png
