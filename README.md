@@ -35,3 +35,4 @@ To provide meaningful insights into the Electric Vehicle market and help users u
 Screenshot
 1. https://github.com/aarya-joshi-AJ/EV_Market_overview/blob/main/Screenshot%202026-08-22%20213752.png
 2. https://github.com/aarya-joshi-AJ/EV_Market_overview/blob/main/Screenshot%202026-08-22%20213852.png
+3. https://github.com/aarya-joshi-AJ/EV_Market_overview/blob/main/Screenshot%202026-08-22%20213946.png
